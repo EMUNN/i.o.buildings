@@ -1,0 +1,15 @@
+All source code created by the NCO project and distributed with NCO is
+re-distributable under the terms of the 3-Clause BSD License.
+The full license text is at 
+https://opensource.org/licenses/BSD-3-Clause and in the file COPYING.
+Copyright information is in the file COPYRIGHT.
+
+You are permitted to link NCO with the HDF, netCDF, OPeNDAP, and UDUnits
+libraries and to distribute the resulting executables under the terms 
+of the BSD, but in addition obeying the extra stipulations of the 
+HDF, netCDF, OPeNDAP, and UDUnits licenses.
+   
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+See the 3-Clause BSD License for more details.

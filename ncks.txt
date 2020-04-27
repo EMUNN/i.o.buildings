@@ -1,0 +1,13 @@
+##SUBSET A REGION
+
+ncea -d lat, minimum_lat, maximum_lat -d lon, minimum_lon, maximum_lon in.nc out.nc
+
+
+
+##SLICE TIME
+
+ncea -F -d time, first, last in.nc out.nc
+
+
+##CONVERT TO JSON
+ncks -v _var_ in.nc out.nc
